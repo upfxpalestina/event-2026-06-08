@@ -5,5 +5,3 @@
 **Aula Magna**
 **Univesitat de Barcelona - Raval**<br>
 **C/ Montalegre 6, Barcelona**
- 
-<a href="wind_poster_2026_05_19.jpeg"><img src="wind_poster_2026_05_19.jpeg" alt="poster" style="width:400px;"/>

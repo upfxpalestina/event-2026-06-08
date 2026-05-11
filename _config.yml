@@ -1,5 +1,5 @@
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme 
-title: Presentació del llibre
-description: "Quin rol juguem en el genocidi quan col-laborem amb l'acadèmia d'Israel?"
+title: Quin rol juguem en el genocidi quan col-laborem amb l'acadèmia d'Israel?
+description: "Presentació del llibre"
